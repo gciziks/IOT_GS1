@@ -30,7 +30,7 @@ Desenvolvemos um sistema que utiliza **visão computacional e reconhecimento de 
 
 ##  Vídeo 
 
- [**Assista no YouTube**](https://youtu.be/-38346xWdTY)
+ [**Assista no YouTube**](https://www.youtube.com/watch?v=-38346xWdTY)
 
 ---
 
